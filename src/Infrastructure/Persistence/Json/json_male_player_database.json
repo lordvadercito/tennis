@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "name": "Novak Djokovic",
+            "skillLevel": 99,
+            "strength": 95,
+            "speed": 90
+        },
+        {
+            "name": "Rafael Nadal",
+            "skillLevel": 98,
+            "strength": 93,
+            "speed": 88
+        },
+        {
+            "name": "Roger Federer",
+            "skillLevel": 99,
+            "strength": 92,
+            "speed": 85
+        },
+        {
+            "name": "Carlos Alcaraz",
+            "skillLevel": 96,
+            "strength": 90,
+            "speed": 92
+        },
+        {
+            "name": "Daniil Medvedev",
+            "skillLevel": 95,
+            "strength": 89,
+            "speed": 87
+        },
+        {
+            "name": "Stefanos Tsitsipas",
+            "skillLevel": 86,
+            "strength": 88,
+            "speed": 86
+        },
+        {
+            "name": "Alexander Zverev",
+            "skillLevel": 94,
+            "strength": 87,
+            "speed": 85
+        },
+        {
+            "name": "Andrey Rublev",
+            "skillLevel": 93,
+            "strength": 86,
+            "speed": 84
+        }
+    ]
+}
